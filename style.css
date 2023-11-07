@@ -1,4 +1,6 @@
 .hero-section{
     display: flex;
+    height: 400px;
     background-color: #1f2937;
 }
+
