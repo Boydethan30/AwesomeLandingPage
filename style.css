@@ -115,3 +115,12 @@
     justify-content: space-evenly;
     height: 400px;
 }
+
+.boxes{
+    border: 5px solid #3882f6;
+    justify-content: space-around;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
