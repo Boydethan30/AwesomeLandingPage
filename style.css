@@ -132,3 +132,11 @@
     text-align-last: center;
     text-align: center;
 }
+
+
+.testimonial{
+    display: flex;
+    background-color: #e5e7eb;
+    height: 400px;
+}
+
