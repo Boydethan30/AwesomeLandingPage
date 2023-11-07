@@ -35,15 +35,13 @@
 
 .hero-main-content{
     display: flex;
-    border: 5px solid blue;
     height: 400px;
     width: 1300px;
-    margin-left: 280px
+    margin-left: 300px
 }
 
 .hero-left-content{
     width: 480px;
-    border: 3px solid red;
     flex-direction: column;
     justify-self: flex-start;
 }
