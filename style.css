@@ -1,6 +1,6 @@
 .hero-section{
     display: flex;
-    height: 600px;
+    height: 540px;
     background-color: #1f2937;
     flex-direction: column;
 }
