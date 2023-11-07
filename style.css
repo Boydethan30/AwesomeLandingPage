@@ -109,3 +109,9 @@
     font-weight: 700;
 }
 
+.info-boxes{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 400px;
+}
