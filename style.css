@@ -56,3 +56,11 @@
   font-size: 18px;
   color: #e5e7eb;
 }
+
+#hero-sign-up{
+    font-size: larger;
+    margin-top: 20px;
+    border-radius: 5px;
+    color: #f9faf8;
+    background-color: #3882f6;
+}
