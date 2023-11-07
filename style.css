@@ -34,6 +34,8 @@
 
 
 .hero-main-content{
+    display: flex;
+    justify-content: space-evenly;
     height: 250px;
 }
 
