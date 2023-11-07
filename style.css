@@ -67,5 +67,12 @@
 
 
 .hero-right-content{
-    width: 800px;
+    width: 600px;
+    height: 300px;
+    margin-left: 150px;
+    margin-top: 40px;
+    background-color: gray;
 }
+
+
+
