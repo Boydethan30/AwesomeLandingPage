@@ -14,5 +14,12 @@
 
 .hero-links{
     display: flex;
+    justify-content: space-evenly;
+    width: 500px
+}
+
+.hero-links p{
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
