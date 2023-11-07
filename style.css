@@ -4,3 +4,8 @@
     background-color: #1f2937;
 }
 
+.hero-logo-and-links{
+    display: flex;
+    height: 100px;
+}
+
