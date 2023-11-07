@@ -8,6 +8,7 @@
 .hero-logo-and-links{
     display: flex;
     height: 100px;
+    justify-content: space-evenly;
 }
 
 
