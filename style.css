@@ -136,7 +136,30 @@
 
 .testimonial{
     display: flex;
+    flex-direction: column;
     background-color: #e5e7eb;
     height: 400px;
+}
+
+
+.quote{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    margin-top: 100px;
+    height: 200px;
+    width: 850px;
+}
+
+#quote1{
+   font-size: 38px;
+   align-self: center;
+}
+
+#quoter{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 600px;
+    margin-top: -10px
 }
 
