@@ -113,6 +113,8 @@
     align-items: center;
     justify-content: space-evenly;
     height: 400px;
+    width: 1400px;
+    margin-left: 200px;
 }
 
 .boxes{
