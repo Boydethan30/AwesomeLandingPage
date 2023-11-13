@@ -185,3 +185,22 @@
     width: 1000px;
     height: 200px;
 }
+
+#CTA-main-text{
+    margin-top: 60px;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#CTA-second-text{
+    margin-top: -30px;
+    color: white;
+    font-size: larger;
+}
+
+#CTA-main-text, #CTA-second-text{
+    margin-left: 250px;
+}
+
+
