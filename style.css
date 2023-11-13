@@ -169,6 +169,7 @@
 .call-to-action-section{
     display: flex;
     height: 400px;
+    justify-content: center;
 }
 
 .action{
@@ -176,4 +177,5 @@
     height: 200px;
     width: 1400px;
     border-radius: 10px;
+    margin-top: 100px;
 }
