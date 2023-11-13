@@ -60,9 +60,10 @@
 
 #hero-sign-up{
     font-size: larger;
+    border: 1.5px solid white;
     margin-top: 20px;
     border-radius: 5px;
-    color: #f9faf8;
+    color: white;
     background-color: #3882f6;
 }
 
@@ -202,5 +203,16 @@
 #CTA-main-text, #CTA-second-text{
     margin-left: 250px;
 }
+
+#CTA-button{
+    margin-top: 80px;
+    border-radius: 5px;
+    border: 2px solid white;
+    color: white;
+    font-size: larger;
+    background-color: #3882f6
+}
+
+
 
 
