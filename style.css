@@ -216,6 +216,7 @@
 
 .footer-section{
     display: flex;
+    align-items: center;
     height: 100px;
     background-color: #1f2937;
 }
