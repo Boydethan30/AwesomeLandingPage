@@ -215,6 +215,7 @@
 }
 
 .footer-section{
+    display: flex;
     height: 100px;
     background-color: #1f2937;
 }
